@@ -1,0 +1,25 @@
+{
+  "name": "NodeTest",
+  "version": "1.0.0",
+  "description": "running node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanNdiba/NodeTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanNdiba/NodeTest/issues"
+  },
+  "homepage": "https://github.com/IanNdiba/NodeTest#readme",
+  "dependencies": {
+    "jshint": "^2.11.0",
+    "nodemon": "^2.0.2",
+    "prompt": "^1.0.0"
+  }
+}
