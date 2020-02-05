@@ -13,7 +13,8 @@ prompt.get(['firstName' , 'lastName'], function(err, result){
     console.log("First Name: " + result.firstName);
     console.log("Last Name: " + result.lastName);
 
-    console.log("IT Worked. \nThe First Step is Always Worth the Time!!!");
+    console.log("IT Worked.");
+    console.log("The First Step is Always Worth the Time!!!");
 });
 
 
